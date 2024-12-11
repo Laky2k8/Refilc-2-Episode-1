@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://refilc.hu/image/brand/logo.png" width=150>
+  <img src="https://raw.githubusercontent.com/Laky2k8/Refilc-2-Episode-1/refs/heads/master/refilc-2-real.png" width=150>
   <h1 align=center><b>reFilc</b></h1>
 </p>
 
