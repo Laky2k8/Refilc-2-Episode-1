@@ -1,6 +1,6 @@
 <p align=center>
   <img src="https://raw.githubusercontent.com/Laky2k8/Refilc-2-Episode-1/refs/heads/master/refilc-2-real.png" width=150>
-  <h1 align=center><b>reFilc</b></h1>
+  <h1 align=center><b>Re-Filc 2: Episode 1</b></h1>
 </p>
 
 #### Nem hivatalos shitpost a nem hivatalos e-napló alkalmazás forkjaként - sigmáktól, sigmáknak.
