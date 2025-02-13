@@ -39,8 +39,6 @@ Az összes (ugyan azon verzióhoz tartozó) contribution meg fog jelenni a relea
 
 # Team
 
-**kima:** head developer / project manager
-
 **Reiner, pdf, Pearoo, Zizi:** community- and project manager / developer
 
 **vrolandd, TMarccci:** head developer
@@ -54,3 +52,5 @@ Az összes (ugyan azon verzióhoz tartozó) contribution meg fog jelenni a relea
 **Domain Dave:** a legjobb AI valaha
 
 **Skelly:** skelly
+
+**fonokur1234:** idk kicsoda de itt a felszabadított hely neki
